@@ -11,4 +11,4 @@ This project is a simple YouTube clone built using **ReactJS** and **Tailwind CS
 ## Technologies Used
 - ReactJS
 - Tailwind CSS
-- (YouTube API)
+- YouTube API
